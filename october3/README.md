@@ -24,7 +24,7 @@ Here are pictures of our process:
 
 When we tried to run the robot on the previous code that Dhabia and I had worked on, Omar and I really liked how the added wieght (and the little smily face) gave a whole new different feel for the robot, so we decided not to change the code, and make the robot run as it did before.
 
-Here is the link to the video of the robot.
+Here is the ![link](https://drive.google.com/file/d/11zR8JI-JhbW-4N42G1MSLEHbDNuwETxK/view?usp=sharing) to the video of the robot.
 
 As you can see, from an anxious robot, the robot noew looks more playful, and its as if we gave it a new hairstyle :)
 

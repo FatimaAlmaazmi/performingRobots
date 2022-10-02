@@ -5,12 +5,12 @@ For this assignment Omar and I made a body for our robot. We brainstormed ideas 
 
 By sketching a few ideas, we decided to go with a curved shape that ascends in height. And while working, we realized how the shape we chose was very mathmatical in a way, where it reminded us of graphs of integration and how to calculate the area under the curve:
 
-!(pic)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/integration.png)
 
 
 Also, to visualize our project, Omar made a miniture version of it:
 
-!(pic)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.HEIC)
 
 
 

@@ -10,16 +10,18 @@ By sketching a few ideas, we decided to go with a curved shape that ascends in h
 
 Also, to visualize our project, Omar made a miniture version of it:
 
-![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.HEIC)
+![]https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.jpg)
 
 
 
 Here are pictures of our process:
 
 
-!()
-!()
-!()
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.jpg)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2955.jpg)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2957.jpg)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2958.jpg)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2959.jpg)
 
 
 When we tried to run the robot on the previous code that Dhabia and I had worked on, Omar and I really liked how the added wieght (and the little smily face) gave a whole new different feel for the robot, so we decided not to change the code, and make the robot run as it did before.

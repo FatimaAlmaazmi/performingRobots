@@ -36,4 +36,7 @@ One thing that really set things on the right path for us was incorporating bool
 
 **Links to Videos**
 
+[Video of the robot running properly! :> ](https://www.youtube.com/watch?v=h3r3IlOu2kA)
+
+[Pets + Robot ! :> ](https://www.youtube.com/watch?v=kqx_gVGP55E)
 

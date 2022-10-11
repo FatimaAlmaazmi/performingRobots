@@ -10,7 +10,7 @@ By sketching a few ideas, we decided to go with a curved shape that ascends in h
 
 Also, to visualize our project, Omar made a miniture version of it:
 
-![]https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.jpg)
+![](https://github.com/FatimaAlmaazmi/performingRobots/blob/main/pictures/IMG_2953.jpg)
 
 
 
